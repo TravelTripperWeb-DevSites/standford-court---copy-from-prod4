@@ -39,5 +39,6 @@
     "alt": "fitness center",
     "caption": ""
   },
-  "image_alt_txt": "fitness center"
+  "image_alt_txt": "fitness center",
+  "order": 2
 }
