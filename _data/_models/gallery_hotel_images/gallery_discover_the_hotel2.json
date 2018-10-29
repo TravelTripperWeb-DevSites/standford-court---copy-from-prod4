@@ -42,5 +42,6 @@
     "caption": ""
   },
   "image_alt_txt": "map room",
-  "order": 0
+  "order": 0,
+  "featured_order": 4
 }

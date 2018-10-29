@@ -40,5 +40,6 @@
     "caption": ""
   },
   "image_alt_txt": "music room",
-  "order": 17
+  "order": 17,
+  "featured_order": 12
 }

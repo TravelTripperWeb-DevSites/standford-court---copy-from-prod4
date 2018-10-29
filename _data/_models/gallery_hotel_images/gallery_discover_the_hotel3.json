@@ -40,5 +40,6 @@
     "caption": ""
   },
   "image_alt_txt": "art wall - daylighted",
-  "order": 2
+  "order": 2,
+  "featured_order": 9
 }
