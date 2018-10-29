@@ -40,5 +40,6 @@
     "caption": ""
   },
   "image_alt_txt": "registration ",
-  "order": 19
+  "order": 19,
+  "featured_order": 7
 }

@@ -40,5 +40,6 @@
     "caption": ""
   },
   "image_alt_txt": "fitness center",
-  "order": 3
+  "order": 3,
+  "featured_order": 19
 }

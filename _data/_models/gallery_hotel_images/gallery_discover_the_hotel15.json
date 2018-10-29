@@ -40,5 +40,6 @@
     "caption": ""
   },
   "image_alt_txt": "lobby",
-  "order": 18
+  "order": 18,
+  "featured_order": 9
 }
