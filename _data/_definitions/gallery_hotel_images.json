@@ -16,6 +16,7 @@
     },
     "order":
 	{
-		"type": "order"
+		"type": "order",
+		"display_field": "thumb_image"
 	}
 }
