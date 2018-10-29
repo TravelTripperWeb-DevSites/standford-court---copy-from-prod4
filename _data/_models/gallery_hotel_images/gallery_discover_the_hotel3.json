@@ -39,5 +39,6 @@
     "alt": "art-wall",
     "caption": ""
   },
-  "image_alt_txt": "art wall - daylighted"
+  "image_alt_txt": "art wall - daylighted",
+  "order": 9
 }

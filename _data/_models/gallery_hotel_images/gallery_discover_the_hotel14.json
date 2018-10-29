@@ -39,5 +39,6 @@
     "alt": "lounge-seating",
     "caption": ""
   },
-  "image_alt_txt": "lounge seating"
+  "image_alt_txt": "lounge seating",
+  "order": 8
 }

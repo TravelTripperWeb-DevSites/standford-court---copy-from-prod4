@@ -39,5 +39,6 @@
     "alt": "library",
     "caption": ""
   },
-  "image_alt_txt": "library "
+  "image_alt_txt": "library ",
+  "order": 6
 }

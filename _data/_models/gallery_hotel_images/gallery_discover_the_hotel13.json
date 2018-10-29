@@ -39,5 +39,6 @@
     "alt": "lobby-front-desk",
     "caption": ""
   },
-  "image_alt_txt": "registration "
+  "image_alt_txt": "registration ",
+  "order": 19
 }

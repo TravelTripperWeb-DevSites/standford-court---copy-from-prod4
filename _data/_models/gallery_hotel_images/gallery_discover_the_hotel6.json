@@ -40,5 +40,6 @@
     "alt": "Bar & Lounge",
     "caption": ""
   },
-  "image_alt_txt": "bar & lounge"
+  "image_alt_txt": "bar & lounge",
+  "order": 13
 }

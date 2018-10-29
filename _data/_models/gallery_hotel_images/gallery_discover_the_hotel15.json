@@ -39,5 +39,6 @@
     "alt": "lobby",
     "caption": ""
   },
-  "image_alt_txt": "lobby"
+  "image_alt_txt": "lobby",
+  "order": 18
 }

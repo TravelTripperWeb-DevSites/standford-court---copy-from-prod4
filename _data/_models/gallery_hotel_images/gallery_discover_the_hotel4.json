@@ -39,5 +39,6 @@
     "alt": "Lobby Art- America's cup",
     "caption": ""
   },
-  "image_alt_txt": "lobby art "
+  "image_alt_txt": "lobby art ",
+  "order": 15
 }
