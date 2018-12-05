@@ -39,5 +39,7 @@
     "alt": "breakfast-area",
     "caption": ""
   },
-  "image_alt_txt": "breakfast cafe"
+  "image_alt_txt": "breakfast cafe",
+  "order": 5,
+  "featured_order": 0
 }

@@ -39,5 +39,7 @@
     "alt": "lounge-bar",
     "caption": ""
   },
-  "image_alt_txt": "lounge and bar"
+  "image_alt_txt": "lounge and bar",
+  "order": 14,
+  "featured_order": 13
 }

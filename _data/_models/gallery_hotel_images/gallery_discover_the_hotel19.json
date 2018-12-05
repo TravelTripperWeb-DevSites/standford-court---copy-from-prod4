@@ -41,5 +41,7 @@
     "alt": "Benny Bufano",
     "caption": ""
   },
-  "image_alt_txt": "Benny Bufano"
+  "image_alt_txt": "Benny Bufano",
+  "order": 4,
+  "featured_order": 3
 }

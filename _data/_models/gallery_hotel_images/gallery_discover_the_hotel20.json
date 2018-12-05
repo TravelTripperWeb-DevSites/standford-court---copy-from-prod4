@@ -39,5 +39,7 @@
     "alt": "audio room",
     "caption": ""
   },
-  "image_alt_txt": "audio room"
+  "image_alt_txt": "audio room",
+  "order": 6,
+  "featured_order": 4
 }

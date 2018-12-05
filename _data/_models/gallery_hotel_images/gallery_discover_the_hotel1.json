@@ -41,5 +41,7 @@
     "alt": "discover-the-hotel",
     "caption": ""
   },
-  "image_alt_txt": "discover the hotel"
+  "image_alt_txt": "discover the hotel",
+  "order": 1,
+  "featured_order": 2
 }
